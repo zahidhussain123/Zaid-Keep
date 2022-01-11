@@ -1,0 +1,61 @@
+
+
+.classlist {
+  width: 30%;
+  height: 130px;
+  border-radius: 5px 10px 0px 0px;
+  margin: auto;
+  margin-top: 20px;
+  background-color: whitesmoke;
+  
+}
+
+#title {
+  border: none;
+  background-color: whitesmoke;
+
+  margin-top: 10px;
+}
+
+#des {
+  border: none;
+  background-color: whitesmoke;
+  margin-top: 5px;
+}
+
+.btn {
+  margin-top: 10px;
+}
+
+.carditem {
+  width: 180px;
+  /* height: 150px; */
+  margin-top: 80px;
+  margin-left: 25px;
+  /* margin-top: 100px 40px; */
+  /* padding: 10px; */
+  padding: 0px 15px;
+  background-color: wheat;
+  border-radius: 17px 0px 0px 0px;
+}
+
+
+#notepic{
+  display: flex;
+  justify-content: flex-start;
+}
+
+#notepic h2{
+  color: white;
+  font-weight: 600;
+  font-size: 40px;
+}
+
+.noteimg{
+  width: 70px;
+  height: 60px;
+  object-fit: cover;
+  margin-right: 20px;
+  border-radius: 50px;
+  /* border: 1px solid lightyellow; */
+}
